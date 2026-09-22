@@ -20,15 +20,7 @@
 
 ---
 
-### 🛠️ Tecnologias e ferramentas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-9333EA?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-7E22CE?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-6B21A8?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white" />
-</p>
 
 ---
 
