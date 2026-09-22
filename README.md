@@ -34,16 +34,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&hide_border=true&title_color=A855F7&icon_color=C084FC&text_color=E9D5FF&bg_color=0D0221" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&hide_border=true&title_color=A855F7&text_color=E9D5FF&bg_color=0D0221" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&hide_border=true&background=0D0221&ring=A855F7&fire=C084FC&currStreakLabel=E9D5FF" />
-</p>
 
 ---
 
