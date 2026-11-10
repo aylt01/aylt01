@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,20&height=200&section=header&text=Olá,%20eu%20sou%20o%20SEU%20NOME&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=estudante%20•%20programação%20•%20jogos&descAlignY=65&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,20&height=200&section=header&text=Olá,%20eu%20sou%20o%20Ailton&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=estudante%20•%20programação%20•%20back%20end&descAlignY=65&descSize=20&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=C9A8FF&center=true&vCenter=true&width=600&lines=Estudando+Java+e+C%23;Fazendo+jogos+na+Unity;Aprendendo+um+pouco+todo+dia" alt="texto animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=C9A8FF&center=true&vCenter=true&width=600&lines=Estudando+Java+e+C%23;Fazendo+jogos+na+Unity;Mirando+no+back+end;Aprendendo+um+pouco+todo+dia" alt="texto animado" />
 
 <br/><br/>
 
@@ -22,9 +22,11 @@
 
 ## Um pouco sobre mim
 
-Sou estudante e gosto muito de tecnologia. Comecei a programar porque queria entender como as coisas funcionam por trás da tela, principalmente os jogos que eu jogo.
+Oi, me chamo **Ailton**! Desde pequeno eu sempre gostei de jogos. No começo eu achava que queria trabalhar com **modelagem**, criar personagens e cenários. Mas com o tempo percebi que o que eu realmente queria era ver **por dentro do jogo**: entender como ele funciona, por que o personagem anda, por que a porta abre, o que acontece quando eu tomo dano. Foi aí que a programação entrou na minha vida.
 
-Hoje estou estudando **Java** e **C# com Unity**. Ainda estou no começo, erro bastante, mas cada erro que eu resolvo vira uma coisa a mais que eu sei. Esse perfil é meu diário dessa jornada.
+Hoje estou estudando **Java** e **C# com Unity**. Ainda estou no começo, erro bastante, mas cada erro que eu resolvo vira uma coisa a mais que eu sei.
+
+E o plano não para nos jogos. Lá na frente, **eu não quero focar só em games, quero aprender tudo sobre back end**: o que roda por trás dos sistemas, dos sites e dos apps. Esse perfil é meu diário dessa jornada.
 
 ---
 
@@ -32,18 +34,19 @@ Hoje estou estudando **Java** e **C# com Unity**. Ainda estou no começo, erro b
 
 | Tecnologia | Para que estou usando | Como estou indo |
 |---|---|---|
-| **Java** | Lógica de programação e orientação a objetos | Pegando o jeito |
+| **Java** | Lógica de programação, orientação a objetos e base para o back end | Pegando o jeito |
 | **C#** | Scripts dos meus jogos | Já faço coisas funcionarem |
 | **Unity** | Criar jogos 2D | Meu playground favorito |
-| **Git e GitHub** | Guardar e organizar meus projetos | Aprendendo os comandos básicos |
+| **Back end** | Meu objetivo para o futuro | Dando os primeiros passos |
+| **Git e GitHub** | Guardar e organizar meus projetos | Já publico meus projetos |
 
 ---
 
-## Projeto atual
+## Meu primeiro jogo
 
-Estou fazendo um **jogo 2D em pixel art**, com uma vila, portão de saída, baús com habilidades, inimigos que seguem o jogador e até dash.
+Fiz um **jogo 2D em pixel art**, com uma vila, portão de saída, baús com habilidades, inimigos que seguem o jogador e até dash.
 
-Nele estou praticando:
+Nele eu pratiquei:
 
 - movimentação do personagem
 - colisões e tags (dano, baú, portão)
@@ -51,7 +54,7 @@ Nele estou praticando:
 - inimigos simples que seguem o jogador
 - organização dos scripts para não virar bagunça
 
-O projeto ainda está em construção, e é por ele que estou aprendendo a maior parte das coisas.
+Foi com ele que eu aprendi a maior parte do que sei hoje.
 
 ---
 
@@ -82,10 +85,11 @@ public class Dano : MonoBehaviour
 
 - [x] Criar meu perfil no GitHub
 - [x] Fazer meus primeiros scripts na Unity
-- [ ] Terminar meu primeiro jogo
+- [x] Terminar meu primeiro jogo
+- [x] Publicar meus projetos aqui no GitHub
 - [ ] Aprender mais sobre orientação a objetos em Java
-- [ ] Publicar meus projetos aqui no GitHub
-- [ ] Participar de uma game jam
+- [ ] Criar meu primeiro site
+- [ ] Aprender os fundamentos de back end
 
 ---
 
