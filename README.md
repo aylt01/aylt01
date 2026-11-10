@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3C096C,60:7B2CBF,100:F72585&height=200&section=header&text=Olá,%20eu%20sou%20o%20Ailton&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=estudante%20•%20programação%20•%20back%20end&descAlignY=65&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,22:7B2CBF,78:7B2CBF,100:F72585&height=200&section=header&text=Olá,%20eu%20sou%20o%20Ailton&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=estudante%20•%20programação%20•%20back%20end&descAlignY=65&descSize=20&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=FF4DA6&center=true&vCenter=true&width=600&lines=Estudando+Java+e+C%23;Fazendo+jogos+na+Unity;Mirando+no+back+end;Aprendendo+um+pouco+todo+dia" alt="texto animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=C77DFF&center=true&vCenter=true&width=600&lines=Estudando+Java+e+C%23;Fazendo+jogos+na+Unity;Mirando+no+back+end;Aprendendo+um+pouco+todo+dia" alt="texto animado" />
 
 <br/><br/>
 
@@ -13,7 +13,7 @@
 ![Java](https://img.shields.io/badge/Java-7B2CBF?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-9D4EDD?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-5A189A?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F72585?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7B2CBF?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-3C096C?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
@@ -106,8 +106,8 @@ public class Dano : MonoBehaviour
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=1a0533&title_color=c77dff&icon_color=f72585&text_color=e0d4ff" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical&hide_border=true&background=1a0533&ring=c77dff&fire=f72585&currStreakLabel=e0d4ff&sideLabels=c77dff&currStreakNum=ffffff&sideNums=ffffff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=false&border_color=f72585&border_radius=12&bg_color=2d0a4e&title_color=c77dff&icon_color=c77dff&text_color=e0d4ff" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical&hide_border=false&border=f72585&border_radius=12&background=2d0a4e&ring=c77dff&fire=c77dff&currStreakLabel=e0d4ff&sideLabels=c77dff&currStreakNum=ffffff&sideNums=ffffff" height="170"/>
 
 </div>
 
@@ -120,8 +120,8 @@ Se quiser trocar ideia, tirar dúvida, me dar uma dica ou fazer um projeto junto
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-araxpz@icloud.com-7B2CBF?style=for-the-badge&logo=icloud&logoColor=white)](mailto:araxpz@icloud.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-(62)%2098167--6963-F72585?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562981676963)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(62)%2098167--6963-9D4EDD?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562981676963)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3C096C,60:7B2CBF,100:F72585&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,22:7B2CBF,78:7B2CBF,100:F72585&height=90&section=footer" width="100%"/>
